@@ -4,7 +4,7 @@
   <groupId>org.no-hope</groupId>
   <artifactId>protoc-jar</artifactId>
   <packaging>jar</packaging>
-  <version>3.1.0.4-RC1</version>
+  <version>3.1.0.4-RC2-SNAPSHOT</version>
   <name>protoc-jar</name>
   <url>https://github.com/os72/protoc-jar</url>
   <description>Protocol Buffers compiler - executable JAR and API</description>

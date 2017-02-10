@@ -2,7 +2,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.github.os72</groupId>
+  <groupId>org.no-hope</groupId>
   <artifactId>protoc-jar</artifactId>
   <packaging>jar</packaging>
   <version>3.1.0.4-SNAPSHOT</version>
@@ -32,9 +32,9 @@
   </developers>
 
   <scm>
-	<connection>scm:git:git@github.com:os72/protoc-jar.git</connection>
-	<developerConnection>scm:git:git@github.com:os72/protoc-jar.git</developerConnection>
-	<url>git@github.com:os72/protoc-jar.git</url>
+	<connection>scm:git:git@github.com:KetothXupack/protoc-jar.git</connection>
+	<developerConnection>scm:git:git@github.com:KetothXupack/protoc-jar.git</developerConnection>
+	<url>git@github.com:KetothXupack/protoc-jar.git</url>
   </scm>
 
   <dependencies>
